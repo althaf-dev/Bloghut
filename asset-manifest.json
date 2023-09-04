@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bloghut/static/css/main.3b32fe31.css",
+    "main.js": "/bloghut/static/js/main.57509e71.js",
+    "index.html": "/bloghut/index.html",
+    "main.3b32fe31.css.map": "/bloghut/static/css/main.3b32fe31.css.map",
+    "main.57509e71.js.map": "/bloghut/static/js/main.57509e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b32fe31.css",
+    "static/js/main.57509e71.js"
+  ]
+}
